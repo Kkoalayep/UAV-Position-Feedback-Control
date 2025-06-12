@@ -98,13 +98,6 @@ matplotlib
 pybullet
 ```
 
----
-
-## 👤 Authors
-
-Group 8 – [Jiahao Lin]
-
----
 
 ## 📌 Notes
 
