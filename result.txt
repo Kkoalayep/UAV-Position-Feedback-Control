@@ -1,0 +1,4 @@
+reward_x=682.0000
+reward_y=1702.0000
+reward_z=2704.0000
+reward_yaw=2708.0000
